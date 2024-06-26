@@ -1,0 +1,4 @@
+2024-06-25 22:56:14      |deposit        |Kelvin         |+100
+2024-06-25 22:56:23      |withdraw       |Kelvin         |-50.7
+2024-06-25 22:57:42      |transferredTo  |lyn            |-20
+2024-06-25 23:37:55      |transferredTo  |lyn            |-0
